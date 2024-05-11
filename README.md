@@ -1,3 +1,4 @@
+![logo](https://github.com/Har33m-Sha1kh/Har33m-Sha1kh/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Hareem Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/2rjsiAfUxEZNsGzv76/giphy.gif?cid=6c09b95240l2byr9b85ag8t9jrmdob7f4qtfp67hi5dk1pf2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
