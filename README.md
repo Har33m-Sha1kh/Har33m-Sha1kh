@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Code is amazing, it's like an Art work (But don't try to hang it in museum)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<p align="left"><a href="https://www.linkedin.com/in/hareem-shaikh-6095772a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw2WnbpFJwicPRjUXddigXbZ&ust=1715494291834000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiE9bP4hIYDFQAAAAAdAAAAABAE" alt="c" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
