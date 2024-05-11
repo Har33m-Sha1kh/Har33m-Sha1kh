@@ -15,7 +15,8 @@
 - ⚡ Fun fact **Code is amazing, it's like an Art work (But don't try to hang it in museum)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/hareem-shaikh-6095772a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-yypfq&psig=AOvVaw3rnlsWYb8gfHNV5kh3D_-d&ust=1715494615206000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjUlc75hIYDFQAAAAAdAAAAABAI" alt="c" width="40" height="40"/> </a> 
+<p align="left">
+<a href="https://linkedin.com/in/hareem shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hareem shaikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
