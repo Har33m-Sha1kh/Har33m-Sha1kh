@@ -1,7 +1,7 @@
 ![logo](https://github.com/Har33m-Sha1kh/Har33m-Sha1kh/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Hareem Shaikh</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="300" src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif">
+<img align="right" alt="coding" width="400" src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=har33m-sha1kh&label=Profile%20views&color=0e75b6&style=flat" alt="har33m-sha1kh" /> </p>
 
 - 🌱 I’m currently learning **React & Next JS**
