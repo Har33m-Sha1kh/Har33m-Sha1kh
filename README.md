@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React & Next JS**
 
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/hareem shaikh](https://linkedin.com/in/hareem shaikh)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hareem-shaikh](https://www.linkedin.com/in/hareem-shaikh)
 
 - 💬 Ask me about **React**
 
