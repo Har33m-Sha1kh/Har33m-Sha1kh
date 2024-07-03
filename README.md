@@ -1,6 +1,6 @@
 ![logo](https://github.com/Har33m-Sha1kh/Har33m-Sha1kh/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Hareem Shaikh</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=har33m-sha1kh&label=Profile%20views&color=0e75b6&style=flat" alt="har33m-sha1kh" /> </p>
 
@@ -13,6 +13,9 @@
 - 📫 How to reach me **bluebird210506@gmail.com**
 
 - ⚡ Fun fact **Code is amazing, it's like an Art work (But don't try to hang it in museum)**
+
+<h3 align="left">About Me:</h3>
+  <p>I have embarked on a comprehensive full-stack development journey & Currently, I am expanding my expertise by exploring cutting-edge frameworks and technologies. This marks the beginning of my continuous learning path, driven by a passion for excellence and a commitment to staying abreast of industry advancements.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
